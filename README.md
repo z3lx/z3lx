@@ -1,7 +1,5 @@
-### Hello! I'm z3lx. Unlucky for you, most of my repos are private </3
-- Software Engineering Student
-- Currently working on (yet) another project
-- (Not currently) participating in hackathons
+### Hello! I'm prim. Unlucky for you, most of my repos are private </3
+Nothing to see here...
 
 <a href="https://github.com/z3lx/">
   <img height=200 align="center" src="https://z3lx-stats.vercel.app/api?username=z3lx&include_all_commits=true&show_icons=true&title_color=D2794CFF&icon_color=D2794CFF&hide_border=true" />
